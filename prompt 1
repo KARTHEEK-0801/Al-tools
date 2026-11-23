@@ -1,0 +1,10 @@
+Effective AI prompts rely on clear context, specific instructions, and a defined output format. Writing in a "good manner" means structuring your request logically so the AI understands your exact intent without guessing.
+ * Assign a Role: Tell the AI who to act as to set the right tone and expertise (e.g., "Act as a senior software engineer" or "Act as a college professor").
+ * Provide Context: Explain the background or goal of your request so the AI tailors its answer to your specific situation (e.g., "I am preparing a 5-minute class presentation...").
+ * Be Specific and Clear: Use direct action verbs and state exact requirements instead of vague requests. Specify what you want included and what to leave out.
+ * Define the Format: State how you want the information organized, such as bullet points, a comparison table, step-by-step code, or a short paragraph.
+ * Set Constraints: Mention limits like word count, reading level, or tone (e.g., "Keep it under 150 words using simple language").
+ * Give Examples (Few-Shot): If you want a specific style, paste a quick example of what a good output looks like.
+Example of a Well-Structured Prompt:
+> "Act as a computer science tutor. Explain C programming conditional statements (if-else and switch) to a first-year college student. Keep the explanation under 200 words, use bullet points for key differences, and include one simple code example."
+> 
