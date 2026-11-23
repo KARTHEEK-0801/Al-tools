@@ -1,0 +1,13 @@
+Copy and paste the prompt below into an AI resume builder to upgrade and tailor your technical skills section.
+> "Act as an expert technical recruiter and resume writer. Review my current technical skills and the target job description provided below. Rewrite and optimize my 'Technical Skills' section to maximize ATS (Applicant Tracking System) compatibility and recruiter appeal.
+> Please follow these rules:
+>  * Categorize logically: Group skills into clear categories (e.g., Programming Languages, Frameworks & Libraries, Tools & Platforms, Databases).
+>  * Align with the job: Prioritize and mirror the exact terminology and keywords used in the target job description without fabricating skills I don't have.
+>  * Remove fluff: Eliminate outdated technologies or overly basic skills (like Microsoft Word) unless explicitly requested.
+>  * Suggest additions: List any critical keywords from the job description that are missing from my resume so I can add them if I have that experience.
+> My Current Skills: [Paste your current skills list]
+> Target Job Description: [Paste the job description]"
+> 
+Tips for getting the best results:
+ * Include your experience bullets: Paste your work or project descriptions alongside your skills so the AI can pull technical tools you used in projects that you forgot to list.
+ * Specify your level: Add a quick note like "I am a computer science student" or "I am a mid-level developer" so the AI organizes the skills appropriately for your career stage.
