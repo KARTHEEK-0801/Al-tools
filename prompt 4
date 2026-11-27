@@ -1,0 +1,3 @@
+Here is the role-based prompt for Question 14:
+> "Act as an experienced university faculty scheduler. Create a conflict-free weekly class timetable for two sections (Section A and Section B). Ensure that when a single teacher handles subjects for both classes, their lectures are never scheduled in the same time slot. Present the final schedule in a clear, day-wise table showing the time slots, subjects, and assigned faculty for each section, and confirm at the end that zero faculty clashes exist."
+> 
