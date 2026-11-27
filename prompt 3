@@ -1,0 +1,11 @@
+Act as an experienced College Timetable Coordinator for a Computer Science and Engineering (CSE) department. Create a balanced, conflict-free weekly class timetable for a Second Year CSE section from Monday to Friday.
+
+### Course & Schedule Details
+- **Program & Year:** B.Tech / B.E. Computer Science & Engineering, 2nd Year (Semester [3 or 4])
+- **Working Days:** Monday to Friday
+- **Daily Class Hours:** [e.g., 9:00 AM to 4:00 PM, 6 or 7 periods per day]
+- **Break / Lunch:** [e.g., Morning Break 10:45 AM–11:00 AM; Lunch Break 12:45 PM–1:30 PM]
+
+### Subjects (6 Total) & Faculty
+List each subject, its weekly lecture/lab hours, and the assigned faculty member (replace with your actual details):
+1. [Subject 1 Name, e.g., Data Structures & Algorithms] — [X] lectures/week, [Y] lab
